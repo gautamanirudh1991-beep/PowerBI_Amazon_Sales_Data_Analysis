@@ -5,6 +5,7 @@ This project presents an interactive Power BI dashboard that analyzes Amazon sal
 
 
 Tools & Technologies-:
+
 Power BI
 DAX
 Excel / CSV
@@ -12,6 +13,7 @@ Data Visualization & Analytics
 
 
 Dataset-:
+
 Source: Amazon Sales data
 Format: CSV
 Time Period: 2019
